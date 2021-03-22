@@ -14,7 +14,7 @@ function Page() {
         <h1>Savage Beginner's Guide</h1>
         <h2>A very detailed guide by beersprite</h2>
 
-        <div className="top-div flex flex-row ">
+        <div className="flex flex-row">
 
           <div className="box-fight">
             <a href="/Umbra">
