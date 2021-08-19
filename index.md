@@ -1,6 +1,6 @@
-## Yasmin K. B. Zebrowski
+## beersprite
 
-Student at UFRGS, intern at DELL.
+Student and intern at DELL.
 
 ### Previous projects:
 [Github](https://github.com/beersprite)
