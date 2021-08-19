@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Yasmin K. B. Zebrowski
 
-You can use the [editor on GitHub](https://github.com/beersprite/beersprite.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Student at UFRGS, intern at DELL.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Previous projects:
+[Github](https://github.com/beersprite)
 
-### Markdown
+[Pokédex](https://inf.ufrgs.br/~ykbzebrowski)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+### Skills
 ```markdown
-Syntax highlighted code block
+# Social
+- Teamwork
+- Cooperation
+- Communication
+- Assistance
 
-# Header 1
-## Header 2
-### Header 3
+# Programming
+- C
+- C#
+- CSS
+- Dart
+- Git
+- HTML
+- Javascript
+- Python
 
-- Bulleted
-- List
+# Software
+- VSC
+- Photoshop
+- Postman
+- Office package
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Personal
+- Inquiring
+- Motivated
+- Proactive
 ```
+![Image](http://24.media.tumblr.com/a6ee1830a9324db801fea8278cc2026a/tumblr_mf8z2quN0v1qzbbtto1_500.gif)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Thanks for the attention!
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beersprite/beersprite.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
