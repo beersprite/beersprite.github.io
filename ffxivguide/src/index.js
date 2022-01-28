@@ -2,10 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './style/index.css';
 import Routes from './components/Routes';
+import { HashRouter } from 'react-router-dom';
 
 ReactDOM.render(
-   <React.StrictMode>
-     <Routes />
+   <React.StrictMode>     
+       <HashRouter>
+          <Routes />
+       </HashRouter>
    </React.StrictMode>,
    document.getElementById('root')
 );
