@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ffxivguide/static/css/main.51bf1b9f.chunk.css",
-    "main.js": "/ffxivguide/static/js/main.7dcfb2ac.chunk.js",
-    "main.js.map": "/ffxivguide/static/js/main.7dcfb2ac.chunk.js.map",
+    "main.js": "/ffxivguide/static/js/main.692b8f8a.chunk.js",
+    "main.js.map": "/ffxivguide/static/js/main.692b8f8a.chunk.js.map",
     "runtime-main.js": "/ffxivguide/static/js/runtime-main.db202c3f.js",
     "runtime-main.js.map": "/ffxivguide/static/js/runtime-main.db202c3f.js.map",
-    "static/js/2.d9c875d2.chunk.js": "/ffxivguide/static/js/2.d9c875d2.chunk.js",
-    "static/js/2.d9c875d2.chunk.js.map": "/ffxivguide/static/js/2.d9c875d2.chunk.js.map",
+    "static/js/2.79e6f891.chunk.js": "/ffxivguide/static/js/2.79e6f891.chunk.js",
+    "static/js/2.79e6f891.chunk.js.map": "/ffxivguide/static/js/2.79e6f891.chunk.js.map",
     "index.html": "/ffxivguide/index.html",
     "static/css/main.51bf1b9f.chunk.css.map": "/ffxivguide/static/css/main.51bf1b9f.chunk.css.map",
-    "static/js/2.d9c875d2.chunk.js.LICENSE.txt": "/ffxivguide/static/js/2.d9c875d2.chunk.js.LICENSE.txt",
+    "static/js/2.79e6f891.chunk.js.LICENSE.txt": "/ffxivguide/static/js/2.79e6f891.chunk.js.LICENSE.txt",
     "static/media/doggo.57807d10.jpg": "/ffxivguide/static/media/doggo.57807d10.jpg",
     "static/media/thancred.14c2556c.jpg": "/ffxivguide/static/media/thancred.14c2556c.jpg",
     "static/media/umbragif.c55f75a3.gif": "/ffxivguide/static/media/umbragif.c55f75a3.gif",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.db202c3f.js",
-    "static/js/2.d9c875d2.chunk.js",
+    "static/js/2.79e6f891.chunk.js",
     "static/css/main.51bf1b9f.chunk.css",
-    "static/js/main.7dcfb2ac.chunk.js"
+    "static/js/main.692b8f8a.chunk.js"
   ]
 }
